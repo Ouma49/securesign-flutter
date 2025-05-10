@@ -68,10 +68,12 @@ Ce projet met en pratique :
 ---
 
 ## Auteur
+DAOUDI Oumayma 
 
-DAOUDI Oumayma
-GitHub: https://github.com/Ouma49
 Email: oumaymadaoudi1949@gmail.com
+
+Github: https://github.com/Ouma49/
+
 ---
 
 ## Remarques pour l’évaluation
